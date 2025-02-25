@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+    max-height: 2000px;
+}
+.navbar {
+    background-color: #ff6f61;
+}
+.navbar-brand, .nav-link, .card-title, .card-text {
+    color: #000000 !important;
+}
+.card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+.btn-primary {
+    background-color: #ff6f61;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #ff3b2e;
+}
