@@ -4,10 +4,16 @@ body {
 }
 .navbar {
     background-color: #ff6f61;
+
 }
-.navbar-brand, .nav-link, .card-title, .card-text {
+.nav-link, .card-title, .card-text {
     color: #000000 !important;
 }
+
+.navbar-brand {
+    color: white;
+}
+
 .card {
     border: none;
     border-radius: 15px;

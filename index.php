@@ -8,7 +8,7 @@
 <body>
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand text-dark" href="#">Fast Food Express</a>
+            <a class="navbar-brand" href="#">Fast Food Express</a>
         </div>
     </nav>
 
